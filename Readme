@@ -1,0 +1,10 @@
+#ENPM661 Keyur Borad project 1
+# Input the inital node which is mentioned in the main func as:
+ input = ([[1,2,0],[4,5,3],[7,8,6]])
+#Mention the goal node which is initialised in main func as:
+ goal=[[1,2,3],[4,5,6],[7,8,0]]
+
+#thats it, now run the .py file and 3 .txt files will be generated
+#Next run Animate.py file to see the generated path with animation.
+
+#Library use: Numpy, Copy
